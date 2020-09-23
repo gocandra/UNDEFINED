@@ -3,7 +3,14 @@ Wiki: Facultad de la mente que permite aprender, entender, razonar, tomar decisi
 
 Existen diversos intentos por definir y medir la inteligencia.
 
-Francois Chollet: 
+IQ:
+https://es.wikipedia.org/wiki/Cociente_intelectual
+Psychometrics: 
+https://es.wikipedia.org/wiki/Psicometr%C3%ADa
+https://en.wikipedia.org/wiki/Psychometrics
+
+Francois Chollet:
+https://www.miguelangelvargascruz.com/mediciondeinteligenciaensistemasinteligentes_blog_2927.html
 Se dice que el sujeto examinado resuelve una tarea cuando, al ver la tarea por primera vez, 
 puede producir la cuadrícula de salida correcta para todas las entradas de prueba en la tarea 
 (esto incluye seleccionar las dimensiones de la salida cuadrícula). 
@@ -11,7 +18,7 @@ Para cada entrada de la prueba, el examinado puede realizar 3 ensayos (esto es v
 Github: https://github.com/fchollet/ARC
 Paper: https://arxiv.org/abs/1911.01547
 
-*Las máquinas pueden ser inteligentes?* 
+*Las máquinas pueden ser inteligentes?*
 
 *Dónde estamos parados?*
 - La mayoria de las grandes preguntas sobre inteligencia aún no han sido contestadas o propiamente formuladas.
