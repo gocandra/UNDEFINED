@@ -59,10 +59,12 @@ Existen diversas vias:
 - copiar exactamente el cerebro
 - simular evolución: algoritmos genéticos
 
-
 *Qué es Deep Learning* 
 Detectar y extraer patrones de datos.
 
 *Películas y series:*
 Proyecto Brainstorm: https://www.imdb.com/title/tt0085271/
 San Junipero (Black Mirro): https://www.imdb.com/title/tt4538072/
+
+GPT-3
+https://twitter.com/sharifshameem?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1282676454690451457%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fnationalfile.com%2Fgroundbreaking-language-model-ai-gpt-3-is-already-racist-sexist-and-antisemitic%2F
