@@ -1,4 +1,5 @@
-**Qué es la inteligencia?** 
+**Qué es la inteligencia?**
+
 Wiki: Facultad de la mente que permite aprender, entender, razonar, tomar decisiones y formarse una idea determinada de la realidad.
 
 Existen diversos intentos por definir y medir la inteligencia.
