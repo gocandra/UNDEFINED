@@ -1,0 +1,14 @@
+Natural Language Processing (NLP) es la rama del Machine Learning dedicada a procesar el lenguaje.
+Wikipedia lo define como un campo de las ciencias de la computación, inteligencia artificial y lingüística que estudia las interacciones entre las computadoras y el lenguaje humano. El NLP se ocupa de la formulación e investigación de mecanismos eficaces computacionalmente para la comunicación entre personas y máquinas por medio del lenguaje natural, es decir, de las lenguas del mundo.
+https://es.wikipedia.org/wiki/Procesamiento_de_lenguajes_naturales
+
+Cuando decimos interacciones entre las computadoras y el lenguaje humano se nos vienen rápidamente a la mente los asistentes como Google Assistant, Siri, Alexa o Cortana. Sí, todas ellas son formas de NLP. Pero el NLP está mucho más presente en nuestra vida cotidiana. En los sistemas de recomendación de redes sociales y plataformas multimedia, donde cáda vez que nos recomiendan una serie o una publicación se analizan las descripciones, etiquetas, actores, géneros y gustos de otras personas con mis datos previos. Nos comunicamos permanentemente con las máquinas, a veces de forma consciente y a veces sin saberlo. Al poner like en una publicación, al escuchar la misma canción o ver la misma serie más de una vez, al elegir siempre películas del mísmo género y con etiquetas muy similares, al taguear un email como Spam o al realizar determinados recorridos utilizando google maps.
+Todas estas interacciones son estudiadas por varios campos del Machine Learning, pero también pueden ser interpretadas como interacciones de lenguaje, instrucciones y deseos manifestados por nosotros explícita o implicitamente.
+
+El NLP se estudia desde la matemática y especialmente desde la estadística. Pero también entra en juego la lingüistica.
+Es importante para comprender una comunicación estudiar la morfología de la misma, pero también su sintaxis, su semántica y su pragmática.
+
+Con la morfología estudiamos las palábras, con la sintáxis introducimos la relación entre las palabras y cómo se componen (por ejemplo donde está un sujeto y donde un predicado), en la semántica ya nos vamos al plano del significado y llegamos al plano donde el SOTA se está superando ahora. Finalmente, complementamos el análisis con la pragmática, el contexto en el que ese significado tiene sentido.
+
+
+Tags: WordNet, NLTK, n-grams, Baum-Welch algoritm, Viterbi Algoritm, part-of-speech tagger, Babelnet, Deep Learning, RNN, Transformers, Reformers, Conformers, GPT-3, coreferences, hyperonyms, attention, DAG-LSTM, dependency trees, constituency trees, shallow parsing, name entity recognition, sentiment analysis, 
